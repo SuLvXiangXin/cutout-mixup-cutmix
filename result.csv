@@ -1,0 +1,9 @@
+dataset,model,base,base+,cutout,mixup,cutmix
+cifar10,resnet18,5,5,5,6,5
+cifar10,lenet,5,5,5,6,5
+cifar10,densenet,5,5,5,5,5
+cifar10,vgg,5,5,5,5,5
+cifar100,resnet18,5,5,5,5,5
+cifar100,lenet,5,5,5,5,5
+cifar100,densenet,5,5,5,5,5
+cifar100,vgg,5,5,5,6,6
